@@ -1,0 +1,12 @@
+{
+"empCount":1,
+"empName":"Employee",
+"empSalary":25000.00,
+"SalaryIncrement":2000.00,
+"cusCount":3,
+"cusName":"Customer",
+"cusAddress":"Address",
+"saleCount":3,
+"saleAmount":2000.00,
+"AmountIncrement":1000.00
+}
